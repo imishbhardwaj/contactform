@@ -21,7 +21,7 @@ $mail->SMTPOptions=array(
     )
     );
     $mail->Username="imishbhardwaj@gmail.com";
-    $mail->Password="cgpelriscmcaaowg";
+    $mail->Password="cgpel";
     $mail->SMTPSecure="tls";
     $mail->Port=587;
     $mail->setFrom('imishbhardwaj@gmail.com','imish');
